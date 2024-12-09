@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">My name is Ali and I'm a Web Designer and developer from IRAN</p>
+<p align="left">im a graphic designer from iran, can i help you?</p>
 
 ###
 
