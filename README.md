@@ -15,22 +15,22 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="500" src="https://cdn.imgurl.ir/uploads/g09018_original-87a3229f1ad733eee45c04e7ad31bc78.gif"  />
+<img align="left" height="300" src="https://cdn.imgurl.ir/uploads/g09018_original-87a3229f1ad733eee45c04e7ad31bc78.gif"  />
 
 ###
 
-<br clear="both">
+<h1 align="left"></h1>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliLotfi09&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AliLotfi09.AliLotfi09&"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
 ###
